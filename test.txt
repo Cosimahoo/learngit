@@ -1,1 +1,2 @@
 git is a very easy-learning system!
+Git is free software distributed under the GPL.
